@@ -1,4 +1,4 @@
-# Hallo, mein Name ist Chris 
+# Hallo, mein Name ist Christoph L.
 
   <img align="right" src="https://img.shields.io/github/followers/lindnech?style=social" alt="GitHub followers">
   <img align="right" src="https://img.shields.io/github/stars/lindnech?style=social" alt="GitHub stars">

@@ -75,12 +75,12 @@ Ich vertiefe derzeit meine Kenntnisse in Cloud-Technologien und arbeite an mehre
 - [HTML, CSS, JavaScript] BlackJackGame(https://github.com/lindnech/BlackJack1.git)
 - [Terraform, Ansible, AWS]terraform-ansible-Infrastruktur(https://github.com/lindnech/terraform-ansible.git)
 - [HTML mit Pug, CSS, JavaScript]Schrauben24Gruppenprojekt(https://github.com/lindnech/SchraubenProjekteigen.git)
-- [Javascript, Docker, HTML, CSS]Pokedeck](https://github.com/lindnech/TS-Pokedex-Docker.git) 
-- und weitere Interessante Projekte
+- [Javascript, Docker, HTML, CSS]Pokedeck(https://github.com/lindnech/TS-Pokedex-Docker.git)
+- und weitere Interessante Projekte.
 
 <br>
 
-##⚡ Interessen und Ziele
+### ⚡ Interessen und Ziele
 
 Ich bin fasziniert von der Erkundung neuer Technologien, der Erstellung von Webanwendungen, Webseiten und Software und dem Spielen von Videospielen. <br>
 Mein Streben besteht darin, kontinuierlich Wissen zu erwerben und mich stetig zu verbessern.

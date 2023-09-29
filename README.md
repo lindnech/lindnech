@@ -7,7 +7,7 @@
 
 <br>
 
-<h3> Herzlich willkommen auf meinem GitHub-Profil! </h3>
+## Herzlich willkommen auf meinem GitHub-Profil!
 <br>
 Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engineer bei Techstarter. Als Technikbegeisterter bin ich von den Themen und praktischen Projekten, die ich während der Weiterbildung kennengelernt habe, begeistert und freue mich darauf, mein Wissen weiter auszubauen.<br>
  **Ich habe eine Leidenschaft dafür, Neues zu entdecken, zu lernen und mich kontinuierlich weiterzuentwickeln.**
@@ -54,13 +54,13 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
 
 <br>
 
-## 🌱 Was ich gerade lerne
+### 🌱 Was ich gerade lerne
 
 Ich vertiefe derzeit meine Kenntnisse in Cloud-Technologien und arbeite an mehreren Projekten, um meine Fähigkeiten zu verbessern.
 
 <br>
 
-## 📫 Wie Sie mich erreichen können
+### 📫 Wie Sie mich erreichen können
 
 - LinkedIn: [<a href="https://www.linkedin.com/in/christoph-lindner01/">Christoph Lindner</a>]
 

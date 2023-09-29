@@ -14,7 +14,7 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
  <br>
  <br>
 
-### 🧰 Programmiersprachen & Tools
+### 💻 Programmiersprachen & Tools
 
 ---
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>

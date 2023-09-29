@@ -22,7 +22,6 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
@@ -55,6 +54,20 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
 
 <br>
 
+## 🌱 Was ich gerade lerne
+
+Ich vertiefe derzeit meine Kenntnisse in Cloud-Technologien und arbeite an mehreren Projekten, um meine Fähigkeiten zu verbessern.
+
+<br>
+
+## 📫 Wie Sie mich erreichen können
+
+- LinkedIn: [Christoph]
+
+<br>
+
+
+
 ### 🖥️ Projekte
 
 - [HTML, CSS, JavaScript] Taschenrechner(https://github.com/lindnech/TaschenrechnerNeu.git)
@@ -66,7 +79,7 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
 
 <br>
 
-### ℹ️ Interessen und Ziele
+##⚡ Interessen und Ziele
 
 Ich bin fasziniert von der Erkundung neuer Technologien, der Erstellung von Webanwendungen, Webseiten und Software und dem Spielen von Videospielen. <br>
 Mein Streben besteht darin, kontinuierlich Wissen zu erwerben und mich stetig zu verbessern.

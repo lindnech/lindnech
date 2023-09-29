@@ -62,7 +62,7 @@ Ich vertiefe derzeit meine Kenntnisse in Cloud-Technologien und arbeite an mehre
 
 ## 📫 Wie Sie mich erreichen können
 
-- LinkedIn: [<a href="www.linkedin.com/in/christoph-lindner01">Christoph Lindner</a>]
+- LinkedIn: [<a href="https://www.linkedin.com/in/christoph-lindner01/">Christoph Lindner</a>]
 
 
 <br>

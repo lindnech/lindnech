@@ -5,12 +5,14 @@
 
 ***`Ausbildung zum "Devops" and “Cloud Engineer`***
 
-</br>
+<br>
 
 <h1> Herzlich willkommen auf meinem GitHub-Profil! </h1>
 <br>
 Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engineer bei Techstarter. Als Technikbegeisterter bin ich von den Themen und praktischen Projekten, die ich während der Weiterbildung kennengelernt habe, begeistert und freue mich darauf, mein Wissen weiter auszubauen.<br>
  **Ich habe eine Leidenschaft dafür, Neues zu entdecken, zu lernen und mich kontinuierlich weiterzuentwickeln.**
+ <br>
+ <br>
 
 ### 🧰 Programmiersprachen & Tools
 
@@ -29,13 +31,8 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-
-
-</br>
-
----
+<br>
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
-
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
@@ -51,14 +48,14 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
 <img align="left" alt="ssh" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg"/>
 <img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap
 /bootstrap-original.svg"/>
+<br>
+---
 
-
-
-
-
-</br>
+<br>
 
 ---
+
+<br>
 
 ### 🖥️ Projekte
 
@@ -69,7 +66,7 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
 - [Javascript, Docker, HTML, CSS]Pokedeck](https://github.com/lindnech/TS-Pokedex-Docker.git) 
 - und weitere Interessante Projekte
 
-</br>
+<br>
 
 ### ℹ️ Interessen und Ziele
 

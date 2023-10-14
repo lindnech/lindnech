@@ -65,7 +65,7 @@ Ich vertiefe derzeit meine Kenntnisse in Cloud-Technologien und arbeite an mehre
 
 ### 📫 Wie Sie mich erreichen können
 
-- LinkedIn: [<a href="https://www.linkedin.com/in/christoph-lindner01/">Christoph Lindner</a>]
+- LinkedIn <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>: [<a href="https://www.linkedin.com/in/christoph-lindner01/">Christoph Lindner</a>]
 - Gitlab <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>: [<a href="https://gitlab.com/lindnech">Christoph Lindner</a>]
 
 

@@ -76,6 +76,7 @@ Ich vertiefe derzeit meine Kenntnisse in Cloud-Technologien und arbeite an mehre
 
 ### 🖥️ Projekte
 
+- [Terraform, AWS, Python, HTML, JavaScript] auto Packet VersandProzess ((https://github.com/lindnech/DHL-Projekt))
 - [HTML, CSS, JavaScript] Taschenrechner(https://github.com/lindnech/TaschenrechnerNeu.git)
 - [HTML, CSS, JavaScript] BlackJackGame(https://github.com/lindnech/BlackJack1.git)
 - [Terraform, Ansible, AWS]terraform-ansible-Infrastruktur(https://github.com/lindnech/terraform-ansible.git)

@@ -69,7 +69,7 @@ Ich vertiefe derzeit meine Kenntnisse in Cloud-Technologien und arbeite an mehre
 
 - Gitlab: <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> [<a href="https://gitlab.com/lindnech">Christoph Lindner</a>]
 
-- xing:  [<a href="https://https://www.xing.com/profile/Christoph_Lindner063089/cv</a>]
+<p>- xing: <a href="https://www.xing.com/profile/Christoph_Lindner063089">Christoph Lindner</a></p>
 
 
 <br>

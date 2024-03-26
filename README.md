@@ -73,8 +73,8 @@ Ausserdem bereite ich mich gerade für mein nächstes Zertifikat vor:
 
 - Gitlab: <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> [<a href="https://gitlab.com/lindnech">Christoph Lindner</a>]
 
-- xing: <img align="left" alt="Xing" width="30px" style="padding-right:10px;" src="https://www.flaticon.com/de/kostenloses-icon/xing_5968847"/>
-<a href="https://www.xing.com/profile/Christoph_Lindner063089">Christoph Lindner</a></p>
+- xing: <img align="left" alt="Xing" width="30px" style="padding-right:10px;" src="https://www.flaticon.com/de/kostenlose-icons/marken-und-logos"/>
+[<a href="https://www.xing.com/profile/Christoph_Lindner063089">Christoph Lindner</a>]
 
 
 <br>
@@ -103,9 +103,9 @@ Ich bin gespannt darauf, meine Projekte mit anderen zu teilen und von anderen En
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lindnech&show_icons=true&theme=radical) -->
 
 <br>
-<span style="font-size: 6px;"> 
+<small>
     <a href="https://www.flaticon.com/de/kostenlose-icons/marken-und-logos" title="marken und logos Icons">
         Marken und logos Icons erstellt von Freepik - Flaticon
     </a>
-</span>
+</small>
 

@@ -105,7 +105,7 @@ Ich bin gespannt darauf, meine Projekte mit anderen zu teilen und von anderen En
 <br>
 <small>
     <a href="https://www.flaticon.com/de/kostenlose-icons/marken-und-logos" title="marken und logos Icons">
-        Marken und logos Icons erstellt von Freepik - Flaticon
+        Logo Icons erstellt von Freepik - Flaticon
     </a>
 </small>
 

@@ -103,7 +103,7 @@ Ich bin gespannt darauf, meine Projekte mit anderen zu teilen und von anderen En
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lindnech&show_icons=true&theme=radical) -->
 
 <br>
-<span style="font-size: 10px;"> 
+<span style="font-size: 6px;"> 
     <a href="https://www.flaticon.com/de/kostenlose-icons/marken-und-logos" title="marken und logos Icons">
         Marken und logos Icons erstellt von Freepik - Flaticon
     </a>

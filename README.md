@@ -62,7 +62,8 @@ Ich befinde mich gerade in einer spannenden Weiterbildung zum DevOps/Cloud Engin
 ### 🌱 Was ich gerade lerne
 
 Ich vertiefe derzeit meine Kenntnisse in Cloud-Technologien und arbeite an mehreren Projekten, um meine Fähigkeiten zu verbessern.
-Ich lerne gerade für mein nächstes Zertifikat *** AWS Certified Solutions Architect – Associate ***
+Ich lerne gerade für mein nächstes Zertifikat 
+***` AWS Certified Solutions Architect – Associate `***
 
 <br>
 
